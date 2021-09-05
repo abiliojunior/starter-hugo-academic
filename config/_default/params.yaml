@@ -35,7 +35,7 @@ coordinates:
 directions: Entrando na rua indicada, um galpão na esquina com o portão preto.
 office_hours:
   - 'Todos os dias  08:00 to 18:00'
-appointment_url: 'https://calendly.com'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab

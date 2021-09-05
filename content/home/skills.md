@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 80%
-  icon: r-project
-  icon_pack: fab
+  icon: robot
+  icon_pack: fas
   name: Automação
 - description: 60%
-  icon: chart-line
+  icon: keynote
   icon_pack: fas
   name: Desenvolvimento de Software
 - description: 100%
