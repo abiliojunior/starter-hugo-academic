@@ -25,7 +25,7 @@ experience:
   - title: Sócio
     company: Nova Tecnologia
     company_url: 'https://novatecnologia.srv.br'
-    company_logo: logo-nova
+    company_logo: logoNOVA
     location: Fortaleza-CE
     date_start: '2014-01-01'
     date_end: ''

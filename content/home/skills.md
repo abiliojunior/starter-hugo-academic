@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Automação
 - description: 60%
-  icon: keynote
+  icon: desktop
   icon_pack: fas
   name: Desenvolvimento de Software
 - description: 100%
