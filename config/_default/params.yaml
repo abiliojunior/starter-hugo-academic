@@ -41,18 +41,11 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/abiliojunior'
-  - icon: skype
+  - icon: telegram
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Telegram Me
+    link: 'https://telegram.me/@abiliocsjunior'
+
 
 # Site header
 
@@ -145,7 +138,7 @@ map:
   zoom: 15
 marketing:
   google_analytics: ''
-  google_tag_manager: ''
+  google_tag_manager: 'UA-150439814-1'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
