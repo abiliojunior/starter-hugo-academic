@@ -77,4 +77,4 @@ Faz parte do grupo de pesquisa Industrial Informatics, Electronics and Health
 Atua também como sócio proprietário na NOVA Tecnologia, onde atua no desenvolvimento de projetos de automação com enfase em automação de Recursos hídricos, industrial, predial e de infraestrutura urbana. Atua também no desenvolvimento de projetos de Inovação da empresa.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download do meu {{< staticref "uploads/Profile.pdf" "newtab" >}}currículo{{< /staticref >}}.

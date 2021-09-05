@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: HAbilidades
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,7 +19,7 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Automação
 - description: 100%
   icon: chart-line
   icon_pack: fas
@@ -28,6 +28,10 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 100%
+  icon: fab fa-d-and-d
+  icon_pack: fab
+  name: Dungeon Master
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

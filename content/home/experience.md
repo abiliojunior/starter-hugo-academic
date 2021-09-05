@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiencia
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Sócio
+    company: Nova Tecnologia
+    company_url: 'https://novatecnologia.srv.br'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Fortaleza-CE
+    date_start: '2014-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsabilidades incluem:
         
-        * Analysing
-        * Modelling
-        * Deploying
+          * Gerenciemanro de projetos
+          * Desenvolvimento de soluções
+          * Desenvolvimento de software
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Gerente de Projetos
+    company: Infitech
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Fortaleza-CE
+    date_start: '2006-01-01'
+    date_end: '2013-12-31'
+    description: Gerenciar times de desenvolvimento de projetos de automaçao e controle.
 
 design:
   columns: '2'
