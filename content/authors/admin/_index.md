@@ -6,11 +6,11 @@ title: Abílio Júnior
 superuser: true
 
 # Role/position/tagline
-role: Doutorando em Engenharia de Controle
+role: Doutorando
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Universidade Federal do Cear
+- name: Universidade Federal do Ceará
   url: https://www.ufc.br
 
 # Short bio (displayed in user profile at end of posts)

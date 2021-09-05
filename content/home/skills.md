@@ -9,25 +9,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: HAbilidades
+title: Competências
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 80%
   icon: r-project
   icon_pack: fab
   name: Automação
-- description: 100%
+- description: 60%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Desenvolvimento de Software
 - description: 100%
   icon: fab fa-d-and-d
   icon_pack: fab
