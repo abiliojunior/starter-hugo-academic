@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Padroes de Projetos"
+title: "Padrões de Projetos"
 subtitle: "Padroes de Projetos na liguagem de programação Ladder"
 summary: ""
 authors: []
