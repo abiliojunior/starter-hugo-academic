@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Revisao Sistematica"
+title: "Revisão Sistematica"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Espero aqui 
+Eu nem sei do qe se trata
