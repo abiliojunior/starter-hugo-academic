@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Eu nem sei do qe se trata
+Em desenvolvimento
